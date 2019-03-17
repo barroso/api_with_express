@@ -19,3 +19,24 @@ https://nodemon.io/
 yarn install
 
 yarn start
+
+http://localhost:3003/products
+
+[
+   {
+      "name":"Notebook",
+      "price":1234.33
+   },
+   {
+      "name":"Monitor",
+      "price":134
+   },
+   {
+      "name":"Led",
+      "price":4
+   },
+   {
+      "name":"USB",
+      "price":34
+   }
+]
